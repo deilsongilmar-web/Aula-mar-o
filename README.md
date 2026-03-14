@@ -99,8 +99,25 @@ SOURCE caminho/do/arquivo/script.sql;
 👤 Autor
 Deilson Mendes
 
+
 Estudante de Full Stack na Digital College.
 
 Interesses: Desenvolvimento Web, Energia Solar e Mercado Financeiro.
 
-LinkedIn | GitHub
+## 👨‍💻 Contato
+
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Solares
+
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes)
+  
+* **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+ 
+* **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
+  
+* **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+  
+* **Telefone:** [85) 98561-7285](8598561-7285)
+  
+
+
+
